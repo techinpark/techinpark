@@ -4,6 +4,5 @@ Fernando is a iOS developer who thinks deeply about the Essence of a business. H
 
 
 - 📱 iOS Developer
-- 🔗 [fernando.kr](https://fernando.kr)
-- 📩 fernando@daum.net
+- 👔 Suite Lover 
 - 🚀 Life is short, Don't waste your time.
