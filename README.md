@@ -15,6 +15,7 @@
 - 🚀 &nbsp; Life is short, Don't waste your time.
 
 ## ✍🏻  Recent blog posts
+- [iOS Setting Bundle을 이용한 앱 테스트 환경 구성하기](https://fernando.kr/ios/2020-07-29-ios-setting-bundle/)
 - [WWDC2020 요약 총정리](https://fernando.kr/ios/2020-06-23-wwdc-report/)
 - [Github 프로필에 나의 Daliy 코딩 시간을 적용해보자!](https://fernando.kr/develop/2020-05-02-github-gist-posting/)
 - [Github Actions를 이용한 개발블로그 글을 슬랙으로 알림받기](https://fernando.kr/develop/2020-04-26-develop-slack-bot/)
