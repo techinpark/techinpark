@@ -24,3 +24,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/techinpark/techinpark/pull/1) in [techinpark/techinpark](https://github.com/techinpark/techinpark)
+2. 💪 Opened PR [#1](https://github.com/techinpark/techinpark/pull/1) in [techinpark/techinpark](https://github.com/techinpark/techinpark)
+3. 🗣 Commented on [#122](https://github.com/facundoolano/app-store-scraper/issues/122) in [facundoolano/app-store-scraper](https://github.com/facundoolano/app-store-scraper)
+4. 💪 Opened PR [#145](https://github.com/facundoolano/app-store-scraper/pull/145) in [facundoolano/app-store-scraper](https://github.com/facundoolano/app-store-scraper)
+5. 🎉 Merged PR [#4](https://github.com/techinpark/appstore-review-bot/pull/4) in [techinpark/appstore-review-bot](https://github.com/techinpark/appstore-review-bot)
+<!--END_SECTION:activity-->
