@@ -21,3 +21,8 @@
 - [Github Actions를 이용한 개발블로그 글을 슬랙으로 알림받기](https://fernando.kr/develop/2020-04-26-develop-slack-bot/)
 - [Beta 에서 Firebase Distribution으로 이사하기 🚀](https://fernando.kr/ios/2020-04-10-migrate-firebase-distribution/)
 - [1일 1커밋의 목표를 가지고 있다면? - Bitbar Github 플러그인 설정하기](https://fernando.kr/develop/2020-01-11-github-contributions/)
+
+## 🚀  Recent github Activities
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
