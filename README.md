@@ -24,9 +24,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/techinpark/techinpark/pull/1) in [techinpark/techinpark](https://github.com/techinpark/techinpark)
-2. 💪 Opened PR [#1](https://github.com/techinpark/techinpark/pull/1) in [techinpark/techinpark](https://github.com/techinpark/techinpark)
-3. 🗣 Commented on [#122](https://github.com/facundoolano/app-store-scraper/issues/122) in [facundoolano/app-store-scraper](https://github.com/facundoolano/app-store-scraper)
-4. 💪 Opened PR [#145](https://github.com/facundoolano/app-store-scraper/pull/145) in [facundoolano/app-store-scraper](https://github.com/facundoolano/app-store-scraper)
-5. 🎉 Merged PR [#4](https://github.com/techinpark/appstore-review-bot/pull/4) in [techinpark/appstore-review-bot](https://github.com/techinpark/appstore-review-bot)
+1. 🎉 Merged PR [#4](https://github.com/techinpark/today-devblog-bot/pull/4) in [techinpark/today-devblog-bot](https://github.com/techinpark/today-devblog-bot)
+2. 🎉 Merged PR [#1](https://github.com/techinpark/today-devblog-bot/pull/1) in [techinpark/today-devblog-bot](https://github.com/techinpark/today-devblog-bot)
+3. 🎉 Merged PR [#1](https://github.com/techinpark/techinpark/pull/1) in [techinpark/techinpark](https://github.com/techinpark/techinpark)
+4. 💪 Opened PR [#1](https://github.com/techinpark/techinpark/pull/1) in [techinpark/techinpark](https://github.com/techinpark/techinpark)
+5. 🗣 Commented on [#122](https://github.com/facundoolano/app-store-scraper/issues/122) in [facundoolano/app-store-scraper](https://github.com/facundoolano/app-store-scraper)
 <!--END_SECTION:activity-->
