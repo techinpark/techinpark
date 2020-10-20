@@ -24,9 +24,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/techinpark/appstore-status-bot/pull/4) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-2. 💪 Opened PR [#4](https://github.com/techinpark/appstore-status-bot/pull/4) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-3. 🎉 Merged PR [#3](https://github.com/techinpark/appstore-status-bot/pull/3) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-4. 💪 Opened PR [#3](https://github.com/techinpark/appstore-status-bot/pull/3) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-5. 🎉 Merged PR [#4](https://github.com/techinpark/today-devblog-bot/pull/4) in [techinpark/today-devblog-bot](https://github.com/techinpark/today-devblog-bot)
+1. 🎉 Merged PR [#5](https://github.com/techinpark/pangyo-smilecook/pull/5) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+2. 🎉 Merged PR [#6](https://github.com/techinpark/pangyo-smilecook/pull/6) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+3. 🎉 Merged PR [#4](https://github.com/techinpark/appstore-status-bot/pull/4) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+4. 💪 Opened PR [#4](https://github.com/techinpark/appstore-status-bot/pull/4) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+5. 🎉 Merged PR [#3](https://github.com/techinpark/appstore-status-bot/pull/3) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
 <!--END_SECTION:activity-->
