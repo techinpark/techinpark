@@ -24,9 +24,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/yagiz/Bagel/issues/60) in [yagiz/Bagel](https://github.com/yagiz/Bagel)
-2. 💪 Opened PR [#21](https://github.com/letswiftconf/newsletter/pull/21) in [letswiftconf/newsletter](https://github.com/letswiftconf/newsletter)
-3. 🎉 Merged PR [#5](https://github.com/techinpark/pangyo-smilecook/pull/5) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
-4. 🎉 Merged PR [#6](https://github.com/techinpark/pangyo-smilecook/pull/6) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
-5. 🎉 Merged PR [#4](https://github.com/techinpark/appstore-status-bot/pull/4) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+1. 🗣 Commented on [#13](https://github.com/techinpark/blog-comments/issues/13) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+2. 🗣 Commented on [#60](https://github.com/yagiz/Bagel/issues/60) in [yagiz/Bagel](https://github.com/yagiz/Bagel)
+3. 💪 Opened PR [#21](https://github.com/letswiftconf/newsletter/pull/21) in [letswiftconf/newsletter](https://github.com/letswiftconf/newsletter)
+4. 🎉 Merged PR [#5](https://github.com/techinpark/pangyo-smilecook/pull/5) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+5. 🎉 Merged PR [#6](https://github.com/techinpark/pangyo-smilecook/pull/6) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
 <!--END_SECTION:activity-->
