@@ -24,9 +24,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/techinpark/pangyo-smilecook/pull/7) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
-2. 💪 Opened PR [#69](https://github.com/yagiz/Bagel/pull/69) in [yagiz/Bagel](https://github.com/yagiz/Bagel)
-3. 🗣 Commented on [#13](https://github.com/techinpark/blog-comments/issues/13) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-4. 🗣 Commented on [#60](https://github.com/yagiz/Bagel/issues/60) in [yagiz/Bagel](https://github.com/yagiz/Bagel)
-5. 💪 Opened PR [#21](https://github.com/letswiftconf/newsletter/pull/21) in [letswiftconf/newsletter](https://github.com/letswiftconf/newsletter)
+1. ❗️ Opened issue [#8](https://github.com/techinpark/tip-archives/issues/8) in [techinpark/tip-archives](https://github.com/techinpark/tip-archives)
+2. 🎉 Merged PR [#7](https://github.com/techinpark/pangyo-smilecook/pull/7) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+3. 💪 Opened PR [#69](https://github.com/yagiz/Bagel/pull/69) in [yagiz/Bagel](https://github.com/yagiz/Bagel)
+4. 🗣 Commented on [#13](https://github.com/techinpark/blog-comments/issues/13) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+5. 🗣 Commented on [#60](https://github.com/yagiz/Bagel/issues/60) in [yagiz/Bagel](https://github.com/yagiz/Bagel)
 <!--END_SECTION:activity-->
