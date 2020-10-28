@@ -24,9 +24,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/techinpark/tip-archives/issues/8) in [techinpark/tip-archives](https://github.com/techinpark/tip-archives)
-2. 🎉 Merged PR [#7](https://github.com/techinpark/pangyo-smilecook/pull/7) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
-3. 💪 Opened PR [#69](https://github.com/yagiz/Bagel/pull/69) in [yagiz/Bagel](https://github.com/yagiz/Bagel)
-4. 🗣 Commented on [#13](https://github.com/techinpark/blog-comments/issues/13) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-5. 🗣 Commented on [#60](https://github.com/yagiz/Bagel/issues/60) in [yagiz/Bagel](https://github.com/yagiz/Bagel)
+1. 🗣 Commented on [#8](https://github.com/techinpark/tip-archives/issues/8) in [techinpark/tip-archives](https://github.com/techinpark/tip-archives)
+2. ❗️ Opened issue [#8](https://github.com/techinpark/tip-archives/issues/8) in [techinpark/tip-archives](https://github.com/techinpark/tip-archives)
+3. 🎉 Merged PR [#7](https://github.com/techinpark/pangyo-smilecook/pull/7) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+4. 💪 Opened PR [#69](https://github.com/yagiz/Bagel/pull/69) in [yagiz/Bagel](https://github.com/yagiz/Bagel)
+5. 🗣 Commented on [#13](https://github.com/techinpark/blog-comments/issues/13) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
 <!--END_SECTION:activity-->
