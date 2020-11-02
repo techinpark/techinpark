@@ -24,9 +24,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/techinpark/tip-archives/issues/8) in [techinpark/tip-archives](https://github.com/techinpark/tip-archives)
-2. ❗️ Opened issue [#8](https://github.com/techinpark/tip-archives/issues/8) in [techinpark/tip-archives](https://github.com/techinpark/tip-archives)
-3. 🎉 Merged PR [#7](https://github.com/techinpark/pangyo-smilecook/pull/7) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
-4. 💪 Opened PR [#69](https://github.com/yagiz/Bagel/pull/69) in [yagiz/Bagel](https://github.com/yagiz/Bagel)
-5. 🗣 Commented on [#13](https://github.com/techinpark/blog-comments/issues/13) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+1. 💪 Opened PR [#18](https://github.com/OhKanghoon/Texture-KR-Wiki/pull/18) in [OhKanghoon/Texture-KR-Wiki](https://github.com/OhKanghoon/Texture-KR-Wiki)
+2. 🗣 Commented on [#8](https://github.com/techinpark/tip-archives/issues/8) in [techinpark/tip-archives](https://github.com/techinpark/tip-archives)
+3. ❗️ Opened issue [#8](https://github.com/techinpark/tip-archives/issues/8) in [techinpark/tip-archives](https://github.com/techinpark/tip-archives)
+4. 🎉 Merged PR [#7](https://github.com/techinpark/pangyo-smilecook/pull/7) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+5. 💪 Opened PR [#69](https://github.com/yagiz/Bagel/pull/69) in [yagiz/Bagel](https://github.com/yagiz/Bagel)
 <!--END_SECTION:activity-->
