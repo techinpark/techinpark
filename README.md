@@ -25,9 +25,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/techinpark/pangyo-smilecook/pull/8) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
-2. 🗣 Commented on [#8](https://github.com/techinpark/pangyo-smilecook/issues/8) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
-3. 💪 Opened PR [#18](https://github.com/OhKanghoon/Texture-KR-Wiki/pull/18) in [OhKanghoon/Texture-KR-Wiki](https://github.com/OhKanghoon/Texture-KR-Wiki)
-4. 🗣 Commented on [#8](https://github.com/techinpark/tip-archives/issues/8) in [techinpark/tip-archives](https://github.com/techinpark/tip-archives)
-5. ❗️ Opened issue [#8](https://github.com/techinpark/tip-archives/issues/8) in [techinpark/tip-archives](https://github.com/techinpark/tip-archives)
+1. 🎉 Merged PR [#9](https://github.com/techinpark/pangyo-smilecook/pull/9) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+2. 🎉 Merged PR [#8](https://github.com/techinpark/pangyo-smilecook/pull/8) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+3. 🗣 Commented on [#8](https://github.com/techinpark/pangyo-smilecook/issues/8) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+4. 💪 Opened PR [#18](https://github.com/OhKanghoon/Texture-KR-Wiki/pull/18) in [OhKanghoon/Texture-KR-Wiki](https://github.com/OhKanghoon/Texture-KR-Wiki)
+5. 🗣 Commented on [#8](https://github.com/techinpark/tip-archives/issues/8) in [techinpark/tip-archives](https://github.com/techinpark/tip-archives)
 <!--END_SECTION:activity-->
