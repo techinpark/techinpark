@@ -15,6 +15,7 @@
 - 🚀 &nbsp; Life is short, Don't waste your time.
 
 ## ✍🏻  Recent blog posts
+- [점심메뉴 오늘은 뭐나와요? 한식뷔페 메뉴봇 개발기](https://fernando.kr/general/2020-11-10-pangyo-lunch-story/)
 - [iOS 앱 심사상태를 팀원들과 쉽게 공유해보자!](https://fernando.kr/ios/2020-11-08-ios-appstore-status-bot/)
 - [iOS Setting Bundle을 이용한 앱 테스트 환경 구성하기](https://fernando.kr/ios/2020-07-29-ios-setting-bundle/)
 - [WWDC2020 요약 총정리](https://fernando.kr/ios/2020-06-23-wwdc-report/)
