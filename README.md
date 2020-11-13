@@ -26,9 +26,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#13](https://github.com/techinpark/probot-test/pull/13) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-2. ❌ Closed PR [#11](https://github.com/techinpark/probot-test/pull/11) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-3. ❌ Closed PR [#7](https://github.com/techinpark/probot-test/pull/7) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-4. ❌ Closed PR [#5](https://github.com/techinpark/probot-test/pull/5) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-5. ❌ Closed PR [#4](https://github.com/techinpark/probot-test/pull/4) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+1. ❗️ Closed issue [#3](https://github.com/techinpark/probot-test/issues/3) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+2. ❌ Closed PR [#6](https://github.com/techinpark/probot-test/pull/6) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+3. ❌ Closed PR [#8](https://github.com/techinpark/probot-test/pull/8) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+4. ❌ Closed PR [#10](https://github.com/techinpark/probot-test/pull/10) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+5. ❌ Closed PR [#9](https://github.com/techinpark/probot-test/pull/9) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
 <!--END_SECTION:activity-->
