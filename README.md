@@ -26,9 +26,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/techinpark/probot-test/issues/2) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-2. ❗️ Closed issue [#3](https://github.com/techinpark/probot-test/issues/3) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-3. ❌ Closed PR [#6](https://github.com/techinpark/probot-test/pull/6) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-4. ❌ Closed PR [#8](https://github.com/techinpark/probot-test/pull/8) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-5. ❌ Closed PR [#10](https://github.com/techinpark/probot-test/pull/10) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+1. 🎉 Merged PR [#10](https://github.com/techinpark/pangyo-smilecook/pull/10) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+2. 💪 Opened PR [#10](https://github.com/techinpark/pangyo-smilecook/pull/10) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+3. ❗️ Closed issue [#2](https://github.com/techinpark/probot-test/issues/2) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+4. ❗️ Closed issue [#3](https://github.com/techinpark/probot-test/issues/3) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+5. ❌ Closed PR [#6](https://github.com/techinpark/probot-test/pull/6) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
 <!--END_SECTION:activity-->
