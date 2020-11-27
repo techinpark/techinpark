@@ -26,9 +26,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/techinpark/pangyo-smilecook/pull/10) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
-2. 💪 Opened PR [#10](https://github.com/techinpark/pangyo-smilecook/pull/10) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
-3. ❗️ Closed issue [#2](https://github.com/techinpark/probot-test/issues/2) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-4. ❗️ Closed issue [#3](https://github.com/techinpark/probot-test/issues/3) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-5. ❌ Closed PR [#6](https://github.com/techinpark/probot-test/pull/6) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+1. 🗣 Commented on [#10198](https://github.com/CocoaPods/CocoaPods/issues/10198) in [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods)
+2. 🎉 Merged PR [#10](https://github.com/techinpark/pangyo-smilecook/pull/10) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+3. 💪 Opened PR [#10](https://github.com/techinpark/pangyo-smilecook/pull/10) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+4. ❗️ Closed issue [#2](https://github.com/techinpark/probot-test/issues/2) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+5. ❗️ Closed issue [#3](https://github.com/techinpark/probot-test/issues/3) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
 <!--END_SECTION:activity-->
