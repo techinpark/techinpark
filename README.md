@@ -26,9 +26,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/techinpark/blog-comments/issues/13) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-2. 🗣 Commented on [#13](https://github.com/techinpark/blog-comments/issues/13) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-3. 🗣 Commented on [#16](https://github.com/techinpark/blog-comments/issues/16) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-4. 🗣 Commented on [#10198](https://github.com/CocoaPods/CocoaPods/issues/10198) in [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods)
-5. 🎉 Merged PR [#10](https://github.com/techinpark/pangyo-smilecook/pull/10) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+1. ❌ Closed PR [#16](https://github.com/techinpark/productive-box/pull/16) in [techinpark/productive-box](https://github.com/techinpark/productive-box)
+2. ❌ Closed PR [#17](https://github.com/techinpark/productive-box/pull/17) in [techinpark/productive-box](https://github.com/techinpark/productive-box)
+3. ❌ Closed PR [#20](https://github.com/techinpark/productive-box/pull/20) in [techinpark/productive-box](https://github.com/techinpark/productive-box)
+4. ❌ Closed PR [#21](https://github.com/techinpark/productive-box/pull/21) in [techinpark/productive-box](https://github.com/techinpark/productive-box)
+5. 🗣 Commented on [#13](https://github.com/techinpark/blog-comments/issues/13) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
 <!--END_SECTION:activity-->
