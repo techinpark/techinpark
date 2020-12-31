@@ -28,8 +28,8 @@
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#18](https://github.com/techinpark/blog-comments/issues/18) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-2. 🗣 Commented on [#13](https://github.com/techinpark/blog-comments/issues/13) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-3. ❌ Closed PR [#16](https://github.com/techinpark/productive-box/pull/16) in [techinpark/productive-box](https://github.com/techinpark/productive-box)
-4. ❌ Closed PR [#17](https://github.com/techinpark/productive-box/pull/17) in [techinpark/productive-box](https://github.com/techinpark/productive-box)
-5. ❌ Closed PR [#20](https://github.com/techinpark/productive-box/pull/20) in [techinpark/productive-box](https://github.com/techinpark/productive-box)
+2. 🗣 Commented on [#18](https://github.com/techinpark/blog-comments/issues/18) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+3. 🗣 Commented on [#13](https://github.com/techinpark/blog-comments/issues/13) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+4. ❌ Closed PR [#16](https://github.com/techinpark/productive-box/pull/16) in [techinpark/productive-box](https://github.com/techinpark/productive-box)
+5. ❌ Closed PR [#17](https://github.com/techinpark/productive-box/pull/17) in [techinpark/productive-box](https://github.com/techinpark/productive-box)
 <!--END_SECTION:activity-->
