@@ -27,9 +27,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/techinpark/today-devblog-bot/issues/6) in [techinpark/today-devblog-bot](https://github.com/techinpark/today-devblog-bot)
-2. 🗣 Commented on [#13](https://github.com/techinpark/blog-comments/issues/13) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-3. 🗣 Commented on [#7](https://github.com/techinpark/blog-comments/issues/7) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-4. 🎉 Merged PR [#11](https://github.com/techinpark/pangyo-smilecook/pull/11) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
-5. 🎉 Merged PR [#5](https://github.com/techinpark/today-devblog-bot/pull/5) in [techinpark/today-devblog-bot](https://github.com/techinpark/today-devblog-bot)
+1. 🗣 Commented on [#38582](https://github.com/home-assistant/core/issues/38582) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#6](https://github.com/techinpark/today-devblog-bot/issues/6) in [techinpark/today-devblog-bot](https://github.com/techinpark/today-devblog-bot)
+3. 🗣 Commented on [#13](https://github.com/techinpark/blog-comments/issues/13) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+4. 🗣 Commented on [#7](https://github.com/techinpark/blog-comments/issues/7) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+5. 🎉 Merged PR [#11](https://github.com/techinpark/pangyo-smilecook/pull/11) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
 <!--END_SECTION:activity-->
