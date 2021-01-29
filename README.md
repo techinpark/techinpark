@@ -27,9 +27,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/techinpark/probot-test/pull/26) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-2. 💪 Opened PR [#25](https://github.com/techinpark/probot-test/pull/25) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-3. ❌ Closed PR [#24](https://github.com/techinpark/probot-test/pull/24) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-4. 💪 Opened PR [#24](https://github.com/techinpark/probot-test/pull/24) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-5. ❌ Closed PR [#23](https://github.com/techinpark/probot-test/pull/23) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+1. ❗️ Opened issue [#3](https://github.com/kurarararara/fastlane-plugin-fetch_metadata_from_google_sheets/issues/3) in [kurarararara/fastlane-plugin-fetch_metadata_from_google_sheets](https://github.com/kurarararara/fastlane-plugin-fetch_metadata_from_google_sheets)
+2. 💪 Opened PR [#26](https://github.com/techinpark/probot-test/pull/26) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+3. 💪 Opened PR [#25](https://github.com/techinpark/probot-test/pull/25) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+4. ❌ Closed PR [#24](https://github.com/techinpark/probot-test/pull/24) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+5. 💪 Opened PR [#24](https://github.com/techinpark/probot-test/pull/24) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
 <!--END_SECTION:activity-->
