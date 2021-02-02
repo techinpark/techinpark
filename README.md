@@ -15,6 +15,7 @@
 - 🚀 &nbsp; Life is short, Don't waste your time.
 
 ## ✍🏻  Recent blog posts
+- [맥에서 1일 1커밋 관리를 효과적으로 하기](https://fernando.kr/develop/2021-02-03-github-jandi-statusbar/)
 - [2020년 마무리회고](https://fernando.kr/general/2020-12-30-finish-review/)
 - [점심메뉴 오늘은 뭐나와요? 한식뷔페 메뉴봇 개발기](https://fernando.kr/general/2020-11-10-pangyo-lunch-story/)
 - [iOS 앱 심사상태를 팀원들과 쉽게 공유해보자!](https://fernando.kr/ios/2020-11-08-ios-appstore-status-bot/)
@@ -23,7 +24,6 @@
 - [Github 프로필에 나의 Daliy 코딩 시간을 적용해보자!](https://fernando.kr/develop/2020-05-02-github-gist-posting/)
 - [Github Actions를 이용한 개발블로그 글을 슬랙으로 알림받기](https://fernando.kr/develop/2020-04-26-develop-slack-bot/)
 - [Beta 에서 Firebase Distribution으로 이사하기 🚀](https://fernando.kr/ios/2020-04-10-migrate-firebase-distribution/)
-- [1일 1커밋의 목표를 가지고 있다면? - Bitbar Github 플러그인 설정하기](https://fernando.kr/develop/2020-01-11-github-contributions/)
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
