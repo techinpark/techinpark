@@ -27,9 +27,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17914](https://github.com/fastlane/fastlane/issues/17914) in [fastlane/fastlane](https://github.com/fastlane/fastlane)
-2. 💪 Opened PR [#99203](https://github.com/Homebrew/homebrew-cask/pull/99203) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-3. 🗣 Commented on [#7](https://github.com/techinpark/blog-comments/issues/7) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-4. ❗️ Opened issue [#3](https://github.com/kurarararara/fastlane-plugin-fetch_metadata_from_google_sheets/issues/3) in [kurarararara/fastlane-plugin-fetch_metadata_from_google_sheets](https://github.com/kurarararara/fastlane-plugin-fetch_metadata_from_google_sheets)
-5. 💪 Opened PR [#26](https://github.com/techinpark/probot-test/pull/26) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+1. 🗣 Commented on [#1](https://github.com/techinpark/Jandi/issues/1) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+2. 🗣 Commented on [#17914](https://github.com/fastlane/fastlane/issues/17914) in [fastlane/fastlane](https://github.com/fastlane/fastlane)
+3. 💪 Opened PR [#99203](https://github.com/Homebrew/homebrew-cask/pull/99203) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+4. 🗣 Commented on [#7](https://github.com/techinpark/blog-comments/issues/7) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+5. ❗️ Opened issue [#3](https://github.com/kurarararara/fastlane-plugin-fetch_metadata_from_google_sheets/issues/3) in [kurarararara/fastlane-plugin-fetch_metadata_from_google_sheets](https://github.com/kurarararara/fastlane-plugin-fetch_metadata_from_google_sheets)
 <!--END_SECTION:activity-->
