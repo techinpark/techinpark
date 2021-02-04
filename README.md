@@ -27,9 +27,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/techinpark/Jandi/issues/1) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-2. 🗣 Commented on [#17914](https://github.com/fastlane/fastlane/issues/17914) in [fastlane/fastlane](https://github.com/fastlane/fastlane)
-3. 💪 Opened PR [#99203](https://github.com/Homebrew/homebrew-cask/pull/99203) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-4. 🗣 Commented on [#7](https://github.com/techinpark/blog-comments/issues/7) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-5. ❗️ Opened issue [#3](https://github.com/kurarararara/fastlane-plugin-fetch_metadata_from_google_sheets/issues/3) in [kurarararara/fastlane-plugin-fetch_metadata_from_google_sheets](https://github.com/kurarararara/fastlane-plugin-fetch_metadata_from_google_sheets)
+1. ❗️ Closed issue [#1](https://github.com/techinpark/Jandi/issues/1) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+2. 🗣 Commented on [#1](https://github.com/techinpark/Jandi/issues/1) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+3. 🎉 Merged PR [#2](https://github.com/techinpark/Jandi/pull/2) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+4. 💪 Opened PR [#2](https://github.com/techinpark/Jandi/pull/2) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+5. 🗣 Commented on [#1](https://github.com/techinpark/Jandi/issues/1) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
 <!--END_SECTION:activity-->
