@@ -27,9 +27,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/techinpark/blog-comments/issues/7) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-2. 🗣 Commented on [#7](https://github.com/techinpark/blog-comments/issues/7) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-3. ❗️ Closed issue [#1](https://github.com/techinpark/Jandi/issues/1) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-4. 🗣 Commented on [#1](https://github.com/techinpark/Jandi/issues/1) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-5. 🎉 Merged PR [#2](https://github.com/techinpark/Jandi/pull/2) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+1. 🗣 Commented on [#3](https://github.com/techinpark/Jandi/issues/3) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+2. 💪 Opened PR [#23](https://github.com/87kangsw/GitTime/pull/23) in [87kangsw/GitTime](https://github.com/87kangsw/GitTime)
+3. 🗣 Commented on [#7](https://github.com/techinpark/blog-comments/issues/7) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+4. 🗣 Commented on [#7](https://github.com/techinpark/blog-comments/issues/7) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+5. ❗️ Closed issue [#1](https://github.com/techinpark/Jandi/issues/1) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
 <!--END_SECTION:activity-->
