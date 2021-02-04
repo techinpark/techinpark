@@ -27,9 +27,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/techinpark/Jandi/issues/1) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-2. 🗣 Commented on [#1](https://github.com/techinpark/Jandi/issues/1) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-3. 🎉 Merged PR [#2](https://github.com/techinpark/Jandi/pull/2) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-4. 💪 Opened PR [#2](https://github.com/techinpark/Jandi/pull/2) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-5. 🗣 Commented on [#1](https://github.com/techinpark/Jandi/issues/1) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+1. 🗣 Commented on [#7](https://github.com/techinpark/blog-comments/issues/7) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+2. ❗️ Closed issue [#1](https://github.com/techinpark/Jandi/issues/1) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+3. 🗣 Commented on [#1](https://github.com/techinpark/Jandi/issues/1) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+4. 🎉 Merged PR [#2](https://github.com/techinpark/Jandi/pull/2) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+5. 💪 Opened PR [#2](https://github.com/techinpark/Jandi/pull/2) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
 <!--END_SECTION:activity-->
