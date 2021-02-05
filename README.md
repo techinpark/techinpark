@@ -27,9 +27,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/techinpark/Jandi/issues/3) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-2. 🗣 Commented on [#9](https://github.com/techinpark/tip-archives/issues/9) in [techinpark/tip-archives](https://github.com/techinpark/tip-archives)
+1. 🗣 Commented on [#20](https://github.com/techinpark/blog-comments/issues/20) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+2. ❗️ Closed issue [#3](https://github.com/techinpark/Jandi/issues/3) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
 3. 🗣 Commented on [#9](https://github.com/techinpark/tip-archives/issues/9) in [techinpark/tip-archives](https://github.com/techinpark/tip-archives)
-4. ❗️ Opened issue [#9](https://github.com/techinpark/tip-archives/issues/9) in [techinpark/tip-archives](https://github.com/techinpark/tip-archives)
-5. 🗣 Commented on [#3](https://github.com/techinpark/Jandi/issues/3) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+4. 🗣 Commented on [#9](https://github.com/techinpark/tip-archives/issues/9) in [techinpark/tip-archives](https://github.com/techinpark/tip-archives)
+5. ❗️ Opened issue [#9](https://github.com/techinpark/tip-archives/issues/9) in [techinpark/tip-archives](https://github.com/techinpark/tip-archives)
 <!--END_SECTION:activity-->
