@@ -27,9 +27,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/techinpark/Jandi/pull/11) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-2. 🗣 Commented on [#11](https://github.com/techinpark/Jandi/issues/11) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-3. 🗣 Commented on [#12](https://github.com/techinpark/Jandi/issues/12) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-4. 🎉 Merged PR [#13](https://github.com/techinpark/Jandi/pull/13) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+1. 💪 Opened PR [#100983](https://github.com/Homebrew/homebrew-cask/pull/100983) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+2. ❗️ Closed issue [#12](https://github.com/techinpark/Jandi/issues/12) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+3. 🎉 Merged PR [#11](https://github.com/techinpark/Jandi/pull/11) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+4. 🗣 Commented on [#11](https://github.com/techinpark/Jandi/issues/11) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
 5. 🗣 Commented on [#12](https://github.com/techinpark/Jandi/issues/12) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
 <!--END_SECTION:activity-->
