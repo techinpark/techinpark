@@ -27,9 +27,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/techinpark/Jandi/pull/16) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-2. 🗣 Commented on [#15](https://github.com/techinpark/Jandi/issues/15) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-3. 🎉 Merged PR [#2](https://github.com/techinpark/upbitBar/pull/2) in [techinpark/upbitBar](https://github.com/techinpark/upbitBar)
-4. 🗣 Commented on [#2](https://github.com/techinpark/upbitBar/issues/2) in [techinpark/upbitBar](https://github.com/techinpark/upbitBar)
-5. 🎉 Merged PR [#1](https://github.com/techinpark/upbitBar/pull/1) in [techinpark/upbitBar](https://github.com/techinpark/upbitBar)
+1. 🗣 Commented on [#14](https://github.com/techinpark/Jandi/issues/14) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+2. 🎉 Merged PR [#16](https://github.com/techinpark/Jandi/pull/16) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+3. 🗣 Commented on [#15](https://github.com/techinpark/Jandi/issues/15) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+4. 🎉 Merged PR [#2](https://github.com/techinpark/upbitBar/pull/2) in [techinpark/upbitBar](https://github.com/techinpark/upbitBar)
+5. 🗣 Commented on [#2](https://github.com/techinpark/upbitBar/issues/2) in [techinpark/upbitBar](https://github.com/techinpark/upbitBar)
 <!--END_SECTION:activity-->
