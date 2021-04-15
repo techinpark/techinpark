@@ -27,9 +27,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/techinpark/blog-comments/issues/19) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-2. 🗣 Commented on [#14](https://github.com/techinpark/Jandi/issues/14) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-3. 🎉 Merged PR [#16](https://github.com/techinpark/Jandi/pull/16) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-4. 🗣 Commented on [#15](https://github.com/techinpark/Jandi/issues/15) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-5. 🎉 Merged PR [#2](https://github.com/techinpark/upbitBar/pull/2) in [techinpark/upbitBar](https://github.com/techinpark/upbitBar)
+1. 🗣 Commented on [#919](https://github.com/yonaskolb/XcodeGen/issues/919) in [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen)
+2. 🗣 Commented on [#19](https://github.com/techinpark/blog-comments/issues/19) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+3. 🗣 Commented on [#14](https://github.com/techinpark/Jandi/issues/14) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+4. 🎉 Merged PR [#16](https://github.com/techinpark/Jandi/pull/16) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+5. 🗣 Commented on [#15](https://github.com/techinpark/Jandi/issues/15) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
 <!--END_SECTION:activity-->
