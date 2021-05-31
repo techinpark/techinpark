@@ -15,6 +15,7 @@
 - 🚀 &nbsp; Life is short, Don't waste your time.
 
 ## ✍🏻  Recent blog posts
+- [미국앱스토어 전체 1위, 국내 개발자의 사이드 프로젝트 개발기](https://fernando.kr/general/2021-06-01-appstore-experience-review/)
 - [맥에서 1일 1커밋 관리를 효과적으로 하기](https://fernando.kr/develop/2021-02-03-github-jandi-statusbar/)
 - [2020년 마무리회고](https://fernando.kr/general/2020-12-30-finish-review/)
 - [점심메뉴 오늘은 뭐나와요? 한식뷔페 메뉴봇 개발기](https://fernando.kr/general/2020-11-10-pangyo-lunch-story/)
