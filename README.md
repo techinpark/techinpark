@@ -28,9 +28,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#283](https://github.com/uias/Tabman/issues/283) in [uias/Tabman](https://github.com/uias/Tabman)
-2. 🗣 Commented on [#919](https://github.com/yonaskolb/XcodeGen/issues/919) in [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen)
-3. 🗣 Commented on [#19](https://github.com/techinpark/blog-comments/issues/19) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-4. 🗣 Commented on [#14](https://github.com/techinpark/Jandi/issues/14) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-5. 🎉 Merged PR [#16](https://github.com/techinpark/Jandi/pull/16) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+1. 🗣 Commented on [#21](https://github.com/techinpark/blog-comments/issues/21) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+2. 🗣 Commented on [#21](https://github.com/techinpark/blog-comments/issues/21) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+3. 🗣 Commented on [#21](https://github.com/techinpark/blog-comments/issues/21) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+4. 🗣 Commented on [#21](https://github.com/techinpark/blog-comments/issues/21) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+5. 🗣 Commented on [#283](https://github.com/uias/Tabman/issues/283) in [uias/Tabman](https://github.com/uias/Tabman)
 <!--END_SECTION:activity-->
