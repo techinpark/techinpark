@@ -32,5 +32,5 @@
 2. 🗣 Commented on [#21](https://github.com/techinpark/blog-comments/issues/21) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
 3. 🗣 Commented on [#21](https://github.com/techinpark/blog-comments/issues/21) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
 4. 🗣 Commented on [#21](https://github.com/techinpark/blog-comments/issues/21) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-5. 🗣 Commented on [#283](https://github.com/uias/Tabman/issues/283) in [uias/Tabman](https://github.com/uias/Tabman)
+5. 🗣 Commented on [#21](https://github.com/techinpark/blog-comments/issues/21) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
 <!--END_SECTION:activity-->
