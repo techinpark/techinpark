@@ -28,7 +28,7 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/techinpark/blog-comments/issues/21) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+1. 🗣 Commented on [#20](https://github.com/techinpark/blog-comments/issues/20) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
 2. 🗣 Commented on [#21](https://github.com/techinpark/blog-comments/issues/21) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
 3. 🗣 Commented on [#21](https://github.com/techinpark/blog-comments/issues/21) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
 4. 🗣 Commented on [#21](https://github.com/techinpark/blog-comments/issues/21) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
