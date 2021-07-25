@@ -28,9 +28,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/techinpark/upbitBar/pull/4) in [techinpark/upbitBar](https://github.com/techinpark/upbitBar)
-2. 🗣 Commented on [#39](https://github.com/iamchanii/blog/issues/39) in [iamchanii/blog](https://github.com/iamchanii/blog)
-3. 🎉 Merged PR [#1](https://github.com/Paste-Keyboard/app-landing/pull/1) in [Paste-Keyboard/app-landing](https://github.com/Paste-Keyboard/app-landing)
-4. 💪 Opened PR [#1](https://github.com/Paste-Keyboard/app-landing/pull/1) in [Paste-Keyboard/app-landing](https://github.com/Paste-Keyboard/app-landing)
-5. 🗣 Commented on [#20](https://github.com/techinpark/blog-comments/issues/20) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+1. 🎉 Merged PR [#13](https://github.com/techinpark/pangyo-smilecook/pull/13) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+2. 🗣 Commented on [#13](https://github.com/techinpark/pangyo-smilecook/issues/13) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+3. 🎉 Merged PR [#4](https://github.com/techinpark/upbitBar/pull/4) in [techinpark/upbitBar](https://github.com/techinpark/upbitBar)
+4. 🗣 Commented on [#39](https://github.com/iamchanii/blog/issues/39) in [iamchanii/blog](https://github.com/iamchanii/blog)
+5. 🎉 Merged PR [#1](https://github.com/Paste-Keyboard/app-landing/pull/1) in [Paste-Keyboard/app-landing](https://github.com/Paste-Keyboard/app-landing)
 <!--END_SECTION:activity-->
