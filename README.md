@@ -28,9 +28,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/grab/cocoapods-binary-cache/issues/44) in [grab/cocoapods-binary-cache](https://github.com/grab/cocoapods-binary-cache)
-2. 💪 Opened PR [#92](https://github.com/grab/cocoapods-binary-cache/pull/92) in [grab/cocoapods-binary-cache](https://github.com/grab/cocoapods-binary-cache)
-3. 💪 Opened PR [#1](https://github.com/techinpark/cocoapods-binary-cache/pull/1) in [techinpark/cocoapods-binary-cache](https://github.com/techinpark/cocoapods-binary-cache)
-4. 🎉 Merged PR [#13](https://github.com/techinpark/pangyo-smilecook/pull/13) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
-5. 🗣 Commented on [#13](https://github.com/techinpark/pangyo-smilecook/issues/13) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
+1. ❌ Closed PR [#1](https://github.com/techinpark/cocoapods-binary-cache/pull/1) in [techinpark/cocoapods-binary-cache](https://github.com/techinpark/cocoapods-binary-cache)
+2. 🗣 Commented on [#44](https://github.com/grab/cocoapods-binary-cache/issues/44) in [grab/cocoapods-binary-cache](https://github.com/grab/cocoapods-binary-cache)
+3. 💪 Opened PR [#92](https://github.com/grab/cocoapods-binary-cache/pull/92) in [grab/cocoapods-binary-cache](https://github.com/grab/cocoapods-binary-cache)
+4. 💪 Opened PR [#1](https://github.com/techinpark/cocoapods-binary-cache/pull/1) in [techinpark/cocoapods-binary-cache](https://github.com/techinpark/cocoapods-binary-cache)
+5. 🎉 Merged PR [#13](https://github.com/techinpark/pangyo-smilecook/pull/13) in [techinpark/pangyo-smilecook](https://github.com/techinpark/pangyo-smilecook)
 <!--END_SECTION:activity-->
