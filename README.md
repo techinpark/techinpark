@@ -28,9 +28,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/techinpark/blog-comments/issues/20) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+1. 🗣 Commented on [#19340](https://github.com/fastlane/fastlane/issues/19340) in [fastlane/fastlane](https://github.com/fastlane/fastlane)
 2. 🗣 Commented on [#20](https://github.com/techinpark/blog-comments/issues/20) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
 3. 🗣 Commented on [#20](https://github.com/techinpark/blog-comments/issues/20) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-4. ❌ Closed PR [#1](https://github.com/techinpark/cocoapods-binary-cache/pull/1) in [techinpark/cocoapods-binary-cache](https://github.com/techinpark/cocoapods-binary-cache)
-5. 🗣 Commented on [#44](https://github.com/grab/cocoapods-binary-cache/issues/44) in [grab/cocoapods-binary-cache](https://github.com/grab/cocoapods-binary-cache)
+4. 🗣 Commented on [#20](https://github.com/techinpark/blog-comments/issues/20) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+5. ❌ Closed PR [#1](https://github.com/techinpark/cocoapods-binary-cache/pull/1) in [techinpark/cocoapods-binary-cache](https://github.com/techinpark/cocoapods-binary-cache)
 <!--END_SECTION:activity-->
