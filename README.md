@@ -28,9 +28,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19340](https://github.com/fastlane/fastlane/issues/19340) in [fastlane/fastlane](https://github.com/fastlane/fastlane)
-2. 🗣 Commented on [#20](https://github.com/techinpark/blog-comments/issues/20) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+1. 🎉 Merged PR [#7](https://github.com/techinpark/appstore-status-bot/pull/7) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+2. 🗣 Commented on [#19340](https://github.com/fastlane/fastlane/issues/19340) in [fastlane/fastlane](https://github.com/fastlane/fastlane)
 3. 🗣 Commented on [#20](https://github.com/techinpark/blog-comments/issues/20) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
 4. 🗣 Commented on [#20](https://github.com/techinpark/blog-comments/issues/20) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-5. ❌ Closed PR [#1](https://github.com/techinpark/cocoapods-binary-cache/pull/1) in [techinpark/cocoapods-binary-cache](https://github.com/techinpark/cocoapods-binary-cache)
+5. 🗣 Commented on [#20](https://github.com/techinpark/blog-comments/issues/20) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
 <!--END_SECTION:activity-->
