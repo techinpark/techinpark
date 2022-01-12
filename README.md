@@ -28,9 +28,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/techinpark/appstore-status-bot/pull/8) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-2. 💪 Opened PR [#8](https://github.com/techinpark/appstore-status-bot/pull/8) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-3. 🗣 Commented on [#1325](https://github.com/integrations/slack/issues/1325) in [integrations/slack](https://github.com/integrations/slack)
-4. 🎉 Merged PR [#7](https://github.com/techinpark/appstore-status-bot/pull/7) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+1. ❗️ Opened issue [#20](https://github.com/no-comment/AppStore-Connect-Widget/issues/20) in [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget)
+2. 🎉 Merged PR [#8](https://github.com/techinpark/appstore-status-bot/pull/8) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+3. 💪 Opened PR [#8](https://github.com/techinpark/appstore-status-bot/pull/8) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+4. 🗣 Commented on [#1325](https://github.com/integrations/slack/issues/1325) in [integrations/slack](https://github.com/integrations/slack)
 5. 🗣 Commented on [#19340](https://github.com/fastlane/fastlane/issues/19340) in [fastlane/fastlane](https://github.com/fastlane/fastlane)
 <!--END_SECTION:activity-->
