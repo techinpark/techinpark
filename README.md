@@ -28,9 +28,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/no-comment/AppStore-Connect-Widget/issues/20) in [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget)
-2. ❗️ Opened issue [#20](https://github.com/no-comment/AppStore-Connect-Widget/issues/20) in [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget)
-3. 🎉 Merged PR [#8](https://github.com/techinpark/appstore-status-bot/pull/8) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-4. 💪 Opened PR [#8](https://github.com/techinpark/appstore-status-bot/pull/8) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-5. 🗣 Commented on [#1325](https://github.com/integrations/slack/issues/1325) in [integrations/slack](https://github.com/integrations/slack)
+1. 🗣 Commented on [#21](https://github.com/techinpark/blog-comments/issues/21) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+2. 🗣 Commented on [#20](https://github.com/no-comment/AppStore-Connect-Widget/issues/20) in [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget)
+3. ❗️ Opened issue [#20](https://github.com/no-comment/AppStore-Connect-Widget/issues/20) in [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget)
+4. 🎉 Merged PR [#8](https://github.com/techinpark/appstore-status-bot/pull/8) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+5. 💪 Opened PR [#8](https://github.com/techinpark/appstore-status-bot/pull/8) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
 <!--END_SECTION:activity-->
