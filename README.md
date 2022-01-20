@@ -29,8 +29,8 @@
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20](https://github.com/no-comment/AppStore-Connect-Widget/issues/20) in [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget)
-2. 🗣 Commented on [#2](https://github.com/dano-inc/jira-actions/issues/2) in [dano-inc/jira-actions](https://github.com/dano-inc/jira-actions)
-3. 💪 Opened PR [#2](https://github.com/dano-inc/jira-actions/pull/2) in [dano-inc/jira-actions](https://github.com/dano-inc/jira-actions)
-4. 💪 Opened PR [#1](https://github.com/dano-inc/jira-actions/pull/1) in [dano-inc/jira-actions](https://github.com/dano-inc/jira-actions)
-5. 🗣 Commented on [#21](https://github.com/techinpark/blog-comments/issues/21) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+2. 🗣 Commented on [#20](https://github.com/no-comment/AppStore-Connect-Widget/issues/20) in [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget)
+3. 🗣 Commented on [#2](https://github.com/dano-inc/jira-actions/issues/2) in [dano-inc/jira-actions](https://github.com/dano-inc/jira-actions)
+4. 💪 Opened PR [#2](https://github.com/dano-inc/jira-actions/pull/2) in [dano-inc/jira-actions](https://github.com/dano-inc/jira-actions)
+5. 💪 Opened PR [#1](https://github.com/dano-inc/jira-actions/pull/1) in [dano-inc/jira-actions](https://github.com/dano-inc/jira-actions)
 <!--END_SECTION:activity-->
