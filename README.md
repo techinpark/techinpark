@@ -28,9 +28,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/no-comment/AppStore-Connect-Widget/issues/20) in [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget)
+1. 💪 Opened PR [#617](https://github.com/awesome-devblog/awesome-devblog/pull/617) in [awesome-devblog/awesome-devblog](https://github.com/awesome-devblog/awesome-devblog)
 2. 🗣 Commented on [#20](https://github.com/no-comment/AppStore-Connect-Widget/issues/20) in [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget)
-3. 🗣 Commented on [#464](https://github.com/danger/swift/issues/464) in [danger/swift](https://github.com/danger/swift)
-4. 🗣 Commented on [#20](https://github.com/no-comment/AppStore-Connect-Widget/issues/20) in [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget)
+3. 🗣 Commented on [#20](https://github.com/no-comment/AppStore-Connect-Widget/issues/20) in [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget)
+4. 🗣 Commented on [#464](https://github.com/danger/swift/issues/464) in [danger/swift](https://github.com/danger/swift)
 5. 🗣 Commented on [#20](https://github.com/no-comment/AppStore-Connect-Widget/issues/20) in [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget)
 <!--END_SECTION:activity-->
