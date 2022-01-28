@@ -28,9 +28,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/techinpark/appstore-status-bot/issues/10) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-2. 🗣 Commented on [#1](https://github.com/dano-inc/jira-actions/issues/1) in [dano-inc/jira-actions](https://github.com/dano-inc/jira-actions)
-3. 🎉 Merged PR [#1](https://github.com/dano-inc/jira-actions/pull/1) in [dano-inc/jira-actions](https://github.com/dano-inc/jira-actions)
-4. 💪 Opened PR [#617](https://github.com/awesome-devblog/awesome-devblog/pull/617) in [awesome-devblog/awesome-devblog](https://github.com/awesome-devblog/awesome-devblog)
-5. 🗣 Commented on [#20](https://github.com/no-comment/AppStore-Connect-Widget/issues/20) in [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget)
+1. 🎉 Merged PR [#9](https://github.com/techinpark/appstore-status-bot/pull/9) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+2. 🗣 Commented on [#10](https://github.com/techinpark/appstore-status-bot/issues/10) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+3. 🗣 Commented on [#1](https://github.com/dano-inc/jira-actions/issues/1) in [dano-inc/jira-actions](https://github.com/dano-inc/jira-actions)
+4. 🎉 Merged PR [#1](https://github.com/dano-inc/jira-actions/pull/1) in [dano-inc/jira-actions](https://github.com/dano-inc/jira-actions)
+5. 💪 Opened PR [#617](https://github.com/awesome-devblog/awesome-devblog/pull/617) in [awesome-devblog/awesome-devblog](https://github.com/awesome-devblog/awesome-devblog)
 <!--END_SECTION:activity-->
