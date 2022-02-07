@@ -28,9 +28,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/techinpark/appstore-status-bot/pull/10) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-2. 🗣 Commented on [#10](https://github.com/techinpark/appstore-status-bot/issues/10) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-3. 🗣 Commented on [#10](https://github.com/techinpark/appstore-status-bot/issues/10) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-4. 🎉 Merged PR [#9](https://github.com/techinpark/appstore-status-bot/pull/9) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+1. 🗣 Commented on [#18](https://github.com/techinpark/Jandi/issues/18) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+2. 🗣 Commented on [#18](https://github.com/techinpark/Jandi/issues/18) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+3. 🎉 Merged PR [#10](https://github.com/techinpark/appstore-status-bot/pull/10) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+4. 🗣 Commented on [#10](https://github.com/techinpark/appstore-status-bot/issues/10) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
 5. 🗣 Commented on [#10](https://github.com/techinpark/appstore-status-bot/issues/10) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
 <!--END_SECTION:activity-->
