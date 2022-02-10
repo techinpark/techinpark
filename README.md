@@ -6,13 +6,13 @@
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dtechinpark&suffix=%20Followers)](https://twitter.com/techinpark)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/techin-park-10b00732/)
 
-
-
 :wave: Hi there, My name is Fernando is a iOS developer who thinks deeply about the Essence of a business. He dreams to change the world while working with interesting people and amazing projects. feel free to contact with me. 
 
 - 📱 &nbsp; iOS Developer
 - 👔 &nbsp; Suite Lover 
 - 🚀 &nbsp; Life is short, Don't waste your time.
+
+<img src="https://github-readme-stats.vercel.app/api?username=techinpark&show_icons=true&icon_color=009C4C&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ## ✍🏻  Recent blog posts
 - [2021년 마무리 회고](https://fernando.kr/general/2021-12-31-finish-review/)
