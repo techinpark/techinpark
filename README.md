@@ -28,9 +28,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/dano-inc/jira-actions/pull/3) in [dano-inc/jira-actions](https://github.com/dano-inc/jira-actions)
-2. 💪 Opened PR [#3](https://github.com/dano-inc/jira-actions/pull/3) in [dano-inc/jira-actions](https://github.com/dano-inc/jira-actions)
-3. 🎉 Merged PR [#2](https://github.com/dano-inc/jira-actions/pull/2) in [dano-inc/jira-actions](https://github.com/dano-inc/jira-actions)
-4. 🗣 Commented on [#2](https://github.com/dano-inc/jira-actions/issues/2) in [dano-inc/jira-actions](https://github.com/dano-inc/jira-actions)
-5. ❗️ Closed issue [#18](https://github.com/techinpark/Jandi/issues/18) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+1. 🗣 Commented on [#26](https://github.com/techinpark/probot-test/issues/26) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+2. 🗣 Commented on [#26](https://github.com/techinpark/probot-test/issues/26) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+3. 🗣 Commented on [#26](https://github.com/techinpark/probot-test/issues/26) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+4. 🗣 Commented on [#26](https://github.com/techinpark/probot-test/issues/26) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+5. 🗣 Commented on [#26](https://github.com/techinpark/probot-test/issues/26) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
 <!--END_SECTION:activity-->
