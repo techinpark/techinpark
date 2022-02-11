@@ -32,5 +32,5 @@
 2. 🗣 Commented on [#25](https://github.com/techinpark/probot-test/issues/25) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
 3. 🗣 Commented on [#25](https://github.com/techinpark/probot-test/issues/25) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
 4. 🗣 Commented on [#25](https://github.com/techinpark/probot-test/issues/25) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-5. 🗣 Commented on [#26](https://github.com/techinpark/probot-test/issues/26) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+5. 🗣 Commented on [#25](https://github.com/techinpark/probot-test/issues/25) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
 <!--END_SECTION:activity-->
