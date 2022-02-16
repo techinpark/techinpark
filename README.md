@@ -15,6 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=techinpark&show_icons=true&icon_color=009C4C&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ## ✍🏻  Recent blog posts
+- [iOS앱 심사상태를 쉽게 공유받을 수 있도록 appstore-status-bot 환경 설정하기](https://fernando.kr/develop/2022-02-13-appstore-status-bot-usage/)
 - [2021년 마무리 회고](https://fernando.kr/general/2021-12-31-finish-review/)
 - [미국앱스토어 전체 1위, 국내 개발자의 사이드 프로젝트 개발기](https://fernando.kr/general/2021-06-01-appstore-experience-review/)
 - [맥에서 1일 1커밋 관리를 효과적으로 하기](https://fernando.kr/develop/2021-02-03-github-jandi-statusbar/)
