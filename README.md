@@ -12,7 +12,7 @@
 - 👔 &nbsp; Suite Lover 
 - 🚀 &nbsp; Life is short, Don't waste your time.
 
-<img src="https://github-readme-stats.vercel.app/api?username=techinpark&show_icons=true&icon_color=009C4C&text_color=718096&bg_color=ffffff&hide_title=true" />
+<a href="https://opgc.me/#/users/techinpark" target="_blank"><img src="https://api.opgc.me/githubs/users/techinpark/tag/?border=normal" /></a>
 
 ## ✍🏻  Recent blog posts
 - [iOS앱 심사상태를 쉽게 공유받을 수 있도록 appstore-status-bot 환경 설정하기](https://fernando.kr/develop/2022-02-13-appstore-status-bot-usage/)
