@@ -15,6 +15,7 @@
 <a href="https://opgc.me/#/users/techinpark" target="_blank"><img src="https://api.opgc.me/githubs/users/techinpark/tag/?border=normal" /></a>
 
 ## ✍🏻  Recent blog posts
+- [사이드프로젝트 개발부터 배포까지의 경험기](https://fernando.kr/general/2022-03-13-side-project/)
 - [iOS앱 심사상태를 쉽게 공유받을 수 있도록 appstore-status-bot 환경 설정하기](https://fernando.kr/develop/2022-02-13-appstore-status-bot-usage/)
 - [2021년 마무리 회고](https://fernando.kr/general/2021-12-31-finish-review/)
 - [미국앱스토어 전체 1위, 국내 개발자의 사이드 프로젝트 개발기](https://fernando.kr/general/2021-06-01-appstore-experience-review/)
