@@ -30,9 +30,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/techinpark/blog-comments/issues/18) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-2. 🗣 Commented on [#23](https://github.com/techinpark/blog-comments/issues/23) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-3. 🗣 Commented on [#329](https://github.com/Appboy/appboy-ios-sdk/issues/329) in [Appboy/appboy-ios-sdk](https://github.com/Appboy/appboy-ios-sdk)
-4. 🗣 Commented on [#20](https://github.com/no-comment/AppStore-Connect-Widget/issues/20) in [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget)
-5. 🗣 Commented on [#3](https://github.com/techinpark/probot-test/issues/3) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+1. 🗣 Commented on [#11](https://github.com/techinpark/appstore-status-bot/issues/11) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+2. 🗣 Commented on [#18](https://github.com/techinpark/blog-comments/issues/18) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+3. 🗣 Commented on [#23](https://github.com/techinpark/blog-comments/issues/23) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+4. 🗣 Commented on [#329](https://github.com/Appboy/appboy-ios-sdk/issues/329) in [Appboy/appboy-ios-sdk](https://github.com/Appboy/appboy-ios-sdk)
+5. 🗣 Commented on [#20](https://github.com/no-comment/AppStore-Connect-Widget/issues/20) in [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget)
 <!--END_SECTION:activity-->
