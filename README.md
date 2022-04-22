@@ -30,9 +30,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/techinpark/appstore-status-bot/pull/13) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-2. 💪 Opened PR [#13](https://github.com/techinpark/appstore-status-bot/pull/13) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-3. 🎉 Merged PR [#11](https://github.com/techinpark/appstore-status-bot/pull/11) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-4. 🗣 Commented on [#18](https://github.com/googlecast/CastHelloVideo-ios/issues/18) in [googlecast/CastHelloVideo-ios](https://github.com/googlecast/CastHelloVideo-ios)
-5. 🗣 Commented on [#11](https://github.com/techinpark/appstore-status-bot/issues/11) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+1. 🗣 Commented on [#21](https://github.com/techinpark/Jandi/issues/21) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+2. 🎉 Merged PR [#13](https://github.com/techinpark/appstore-status-bot/pull/13) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+3. 💪 Opened PR [#13](https://github.com/techinpark/appstore-status-bot/pull/13) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+4. 🎉 Merged PR [#11](https://github.com/techinpark/appstore-status-bot/pull/11) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+5. 🗣 Commented on [#18](https://github.com/googlecast/CastHelloVideo-ios/issues/18) in [googlecast/CastHelloVideo-ios](https://github.com/googlecast/CastHelloVideo-ios)
 <!--END_SECTION:activity-->
