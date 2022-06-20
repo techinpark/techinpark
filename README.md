@@ -30,9 +30,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/techinpark/Jandi/pull/21) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-2. 🗣 Commented on [#14](https://github.com/techinpark/appstore-status-bot/issues/14) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-3. 🗣 Commented on [#25](https://github.com/techinpark/blog-comments/issues/25) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-4. 🗣 Commented on [#21](https://github.com/techinpark/Jandi/issues/21) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-5. 🎉 Merged PR [#13](https://github.com/techinpark/appstore-status-bot/pull/13) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+1. 💪 Opened PR [#1369](https://github.com/WenchaoD/FSCalendar/pull/1369) in [WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar)
+2. 🎉 Merged PR [#21](https://github.com/techinpark/Jandi/pull/21) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+3. 🗣 Commented on [#14](https://github.com/techinpark/appstore-status-bot/issues/14) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+4. 🗣 Commented on [#25](https://github.com/techinpark/blog-comments/issues/25) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+5. 🗣 Commented on [#21](https://github.com/techinpark/Jandi/issues/21) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
 <!--END_SECTION:activity-->
