@@ -30,9 +30,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/RxSwiftCommunity/RxKeyboard/issues/107) in [RxSwiftCommunity/RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard)
-2. 🗣 Commented on [#1416](https://github.com/integrations/slack/issues/1416) in [integrations/slack](https://github.com/integrations/slack)
-3. 💪 Opened PR [#1369](https://github.com/WenchaoD/FSCalendar/pull/1369) in [WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar)
-4. 🎉 Merged PR [#21](https://github.com/techinpark/Jandi/pull/21) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-5. 🗣 Commented on [#14](https://github.com/techinpark/appstore-status-bot/issues/14) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+1. ❗️ Opened issue [#1](https://github.com/techinpark/toy-template/issues/1) in [techinpark/toy-template](https://github.com/techinpark/toy-template)
+2. 🗣 Commented on [#107](https://github.com/RxSwiftCommunity/RxKeyboard/issues/107) in [RxSwiftCommunity/RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard)
+3. 🗣 Commented on [#1416](https://github.com/integrations/slack/issues/1416) in [integrations/slack](https://github.com/integrations/slack)
+4. 💪 Opened PR [#1369](https://github.com/WenchaoD/FSCalendar/pull/1369) in [WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar)
+5. 🎉 Merged PR [#21](https://github.com/techinpark/Jandi/pull/21) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
 <!--END_SECTION:activity-->
