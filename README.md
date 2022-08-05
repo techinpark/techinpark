@@ -30,9 +30,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#20](https://github.com/techinpark/Jandi/pull/20) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-2. ❗️ Opened issue [#1](https://github.com/techinpark/toy-template/issues/1) in [techinpark/toy-template](https://github.com/techinpark/toy-template)
-3. 🗣 Commented on [#107](https://github.com/RxSwiftCommunity/RxKeyboard/issues/107) in [RxSwiftCommunity/RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard)
-4. 🗣 Commented on [#1416](https://github.com/integrations/slack/issues/1416) in [integrations/slack](https://github.com/integrations/slack)
-5. 💪 Opened PR [#1369](https://github.com/WenchaoD/FSCalendar/pull/1369) in [WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar)
+1. 🗣 Commented on [#16](https://github.com/techinpark/blog-comments/issues/16) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+2. ❌ Closed PR [#20](https://github.com/techinpark/Jandi/pull/20) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+3. ❗️ Opened issue [#1](https://github.com/techinpark/toy-template/issues/1) in [techinpark/toy-template](https://github.com/techinpark/toy-template)
+4. 🗣 Commented on [#107](https://github.com/RxSwiftCommunity/RxKeyboard/issues/107) in [RxSwiftCommunity/RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard)
+5. 🗣 Commented on [#1416](https://github.com/integrations/slack/issues/1416) in [integrations/slack](https://github.com/integrations/slack)
 <!--END_SECTION:activity-->
