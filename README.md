@@ -12,8 +12,6 @@
 - 👔 &nbsp; Suite Lover 
 - 🚀 &nbsp; Life is short, Don't waste your time.
 
-<a href="https://opgc.me/#/users/techinpark" target="_blank"><img src="https://api.opgc.me/githubs/users/techinpark/tag/?border=normal" /></a>
-
 ## ✍🏻  Recent blog posts
 - [사이드프로젝트 개발부터 배포까지의 경험기](https://fernando.kr/general/2022-03-13-side-project/)
 - [iOS앱 심사상태를 쉽게 공유받을 수 있도록 appstore-status-bot 환경 설정하기](https://fernando.kr/develop/2022-02-13-appstore-status-bot-usage/)
