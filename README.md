@@ -28,9 +28,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/techinpark/blog-comments/issues/26) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-2. 🗣 Commented on [#16](https://github.com/techinpark/blog-comments/issues/16) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-3. ❌ Closed PR [#20](https://github.com/techinpark/Jandi/pull/20) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-4. 🗣 Commented on [#107](https://github.com/RxSwiftCommunity/RxKeyboard/issues/107) in [RxSwiftCommunity/RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard)
-5. 🗣 Commented on [#1416](https://github.com/integrations/slack/issues/1416) in [integrations/slack](https://github.com/integrations/slack)
+1. 💪 Opened PR [#3](https://github.com/techinpark/action-for-badge/pull/3) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
+2. ❌ Closed PR [#2](https://github.com/techinpark/action-for-badge/pull/2) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
+3. 💪 Opened PR [#2](https://github.com/techinpark/action-for-badge/pull/2) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
+4. ❌ Closed PR [#1](https://github.com/techinpark/action-for-badge/pull/1) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
+5. 💪 Opened PR [#1](https://github.com/techinpark/action-for-badge/pull/1) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
 <!--END_SECTION:activity-->
