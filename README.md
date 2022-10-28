@@ -28,9 +28,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/techinpark/action-for-badge/pull/7) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
-2. ❌ Closed PR [#6](https://github.com/techinpark/action-for-badge/pull/6) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
-3. 💪 Opened PR [#6](https://github.com/techinpark/action-for-badge/pull/6) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
-4. ❌ Closed PR [#5](https://github.com/techinpark/action-for-badge/pull/5) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
-5. 💪 Opened PR [#5](https://github.com/techinpark/action-for-badge/pull/5) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
+1. 💪 Opened PR [#8](https://github.com/techinpark/action-for-badge/pull/8) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
+2. 🎉 Merged PR [#7](https://github.com/techinpark/action-for-badge/pull/7) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
+3. 💪 Opened PR [#7](https://github.com/techinpark/action-for-badge/pull/7) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
+4. ❌ Closed PR [#6](https://github.com/techinpark/action-for-badge/pull/6) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
+5. 💪 Opened PR [#6](https://github.com/techinpark/action-for-badge/pull/6) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
 <!--END_SECTION:activity-->
