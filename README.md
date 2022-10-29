@@ -28,9 +28,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/techinpark/blog-comments/issues/26) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-2. 🗣 Commented on [#16](https://github.com/techinpark/blog-comments/issues/16) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
-3. ❌ Closed PR [#20](https://github.com/techinpark/Jandi/pull/20) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-4. ❌ Closed PR [#6](https://github.com/techinpark/action-for-badge/pull/6) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
-5. 💪 Opened PR [#6](https://github.com/techinpark/action-for-badge/pull/6) in [techinpark/action-for-badge](https://github.com/techinpark/action-for-badge)
+1. 🗣 Commented on [#1](https://github.com/honeykims/dano/issues/1) in [honeykims/dano](https://github.com/honeykims/dano)
+2. ❗️ Opened issue [#1](https://github.com/honeykims/dano/issues/1) in [honeykims/dano](https://github.com/honeykims/dano)
+3. 🗣 Commented on [#26](https://github.com/techinpark/blog-comments/issues/26) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+4. 🗣 Commented on [#16](https://github.com/techinpark/blog-comments/issues/16) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+5. ❌ Closed PR [#20](https://github.com/techinpark/Jandi/pull/20) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
 <!--END_SECTION:activity-->
