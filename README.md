@@ -13,6 +13,7 @@
 - 🚀 &nbsp; Life is short, Don't waste your time.
 
 ## ✍🏻  Recent blog posts
+- [iOS12이하 지원시 발생할 수 있는 Swift concurrency 이슈 공유](https://fernando.kr/ios/2022-03-28-xcode-issue-for-ios12/)
 - [사이드프로젝트 개발부터 배포까지의 경험기](https://fernando.kr/general/2022-03-13-side-project/)
 - [iOS앱 심사상태를 쉽게 공유받을 수 있도록 appstore-status-bot 환경 설정하기](https://fernando.kr/develop/2022-02-13-appstore-status-bot-usage/)
 - [2021년 마무리 회고](https://fernando.kr/general/2021-12-31-finish-review/)
