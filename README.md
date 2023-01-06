@@ -29,9 +29,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/techinpark/Jandi/issues/25) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-2. 🗣 Commented on [#130](https://github.com/8398a7/action-slack/issues/130) in [8398a7/action-slack](https://github.com/8398a7/action-slack)
-3. 🗣 Commented on [#1](https://github.com/honeykims/dano/issues/1) in [honeykims/dano](https://github.com/honeykims/dano)
-4. ❗️ Opened issue [#1](https://github.com/honeykims/dano/issues/1) in [honeykims/dano](https://github.com/honeykims/dano)
-5. 🗣 Commented on [#26](https://github.com/techinpark/blog-comments/issues/26) in [techinpark/blog-comments](https://github.com/techinpark/blog-comments)
+1. 🗣 Commented on [#19](https://github.com/techinpark/Jandi/issues/19) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+2. ❗️ Closed issue [#22](https://github.com/techinpark/Jandi/issues/22) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+3. 🗣 Commented on [#22](https://github.com/techinpark/Jandi/issues/22) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+4. ❗️ Closed issue [#25](https://github.com/techinpark/Jandi/issues/25) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+5. 🗣 Commented on [#25](https://github.com/techinpark/Jandi/issues/25) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
 <!--END_SECTION:activity-->
