@@ -29,9 +29,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/techinpark/probot-test/pull/27) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-2. ❗️ Closed issue [#15](https://github.com/techinpark/Jandi/issues/15) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-3. 🗣 Commented on [#19](https://github.com/techinpark/Jandi/issues/19) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-4. 🎉 Merged PR [#17](https://github.com/techinpark/appstore-status-bot/pull/17) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-5. 🎉 Merged PR [#12](https://github.com/techinpark/appstore-status-bot/pull/12) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+1. 🗣 Commented on [#1](https://github.com/techinpark/lottery-bot/issues/1) in [techinpark/lottery-bot](https://github.com/techinpark/lottery-bot)
+2. 🗣 Commented on [#1](https://github.com/techinpark/lottery-bot/issues/1) in [techinpark/lottery-bot](https://github.com/techinpark/lottery-bot)
+3. 💪 Opened PR [#27](https://github.com/techinpark/probot-test/pull/27) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
+4. ❗️ Closed issue [#15](https://github.com/techinpark/Jandi/issues/15) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+5. 🗣 Commented on [#19](https://github.com/techinpark/Jandi/issues/19) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
 <!--END_SECTION:activity-->
