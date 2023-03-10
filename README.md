@@ -29,9 +29,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/techinpark/lottery-bot/pull/1) in [techinpark/lottery-bot](https://github.com/techinpark/lottery-bot)
-2. 🗣 Commented on [#1](https://github.com/techinpark/lottery-bot/issues/1) in [techinpark/lottery-bot](https://github.com/techinpark/lottery-bot)
+1. 🗣 Commented on [#39](https://github.com/kean/PulsePro/issues/39) in [kean/PulsePro](https://github.com/kean/PulsePro)
+2. 🎉 Merged PR [#1](https://github.com/techinpark/lottery-bot/pull/1) in [techinpark/lottery-bot](https://github.com/techinpark/lottery-bot)
 3. 🗣 Commented on [#1](https://github.com/techinpark/lottery-bot/issues/1) in [techinpark/lottery-bot](https://github.com/techinpark/lottery-bot)
-4. 💪 Opened PR [#27](https://github.com/techinpark/probot-test/pull/27) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
-5. ❗️ Closed issue [#15](https://github.com/techinpark/Jandi/issues/15) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+4. 🗣 Commented on [#1](https://github.com/techinpark/lottery-bot/issues/1) in [techinpark/lottery-bot](https://github.com/techinpark/lottery-bot)
+5. 💪 Opened PR [#27](https://github.com/techinpark/probot-test/pull/27) in [techinpark/probot-test](https://github.com/techinpark/probot-test)
 <!--END_SECTION:activity-->
