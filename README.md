@@ -29,9 +29,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/techinpark/Jandi/issues/29) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-2. 🗣 Commented on [#18](https://github.com/techinpark/appstore-status-bot/issues/18) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-3. ❗️ Opened issue [#40](https://github.com/kean/PulsePro/issues/40) in [kean/PulsePro](https://github.com/kean/PulsePro)
-4. 🗣 Commented on [#39](https://github.com/kean/PulsePro/issues/39) in [kean/PulsePro](https://github.com/kean/PulsePro)
-5. 🎉 Merged PR [#1](https://github.com/techinpark/lottery-bot/pull/1) in [techinpark/lottery-bot](https://github.com/techinpark/lottery-bot)
+1. 💪 Opened PR [#5833](https://github.com/zwave-js/node-zwave-js/pull/5833) in [zwave-js/node-zwave-js](https://github.com/zwave-js/node-zwave-js)
+2. 🗣 Commented on [#29](https://github.com/techinpark/Jandi/issues/29) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+3. 🗣 Commented on [#18](https://github.com/techinpark/appstore-status-bot/issues/18) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+4. ❗️ Opened issue [#40](https://github.com/kean/PulsePro/issues/40) in [kean/PulsePro](https://github.com/kean/PulsePro)
+5. 🗣 Commented on [#39](https://github.com/kean/PulsePro/issues/39) in [kean/PulsePro](https://github.com/kean/PulsePro)
 <!--END_SECTION:activity-->
