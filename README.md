@@ -29,9 +29,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/techinpark/appstore-status-bot/pull/18) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-2. ❗ Opened issue [#5849](https://github.com/zwave-js/node-zwave-js/issues/5849) in [zwave-js/node-zwave-js](https://github.com/zwave-js/node-zwave-js)
-3. 💪 Opened PR [#5833](https://github.com/zwave-js/node-zwave-js/pull/5833) in [zwave-js/node-zwave-js](https://github.com/zwave-js/node-zwave-js)
-4. 🗣 Commented on [#29](https://github.com/techinpark/Jandi/issues/29) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-5. 🗣 Commented on [#18](https://github.com/techinpark/appstore-status-bot/issues/18) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+1. 🎉 Merged PR [#2](https://github.com/techinpark/lottery-bot/pull/2) in [techinpark/lottery-bot](https://github.com/techinpark/lottery-bot)
+2. 🎉 Merged PR [#18](https://github.com/techinpark/appstore-status-bot/pull/18) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
+3. ❗ Opened issue [#5849](https://github.com/zwave-js/node-zwave-js/issues/5849) in [zwave-js/node-zwave-js](https://github.com/zwave-js/node-zwave-js)
+4. 💪 Opened PR [#5833](https://github.com/zwave-js/node-zwave-js/pull/5833) in [zwave-js/node-zwave-js](https://github.com/zwave-js/node-zwave-js)
+5. 🗣 Commented on [#29](https://github.com/techinpark/Jandi/issues/29) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
 <!--END_SECTION:activity-->
