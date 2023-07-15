@@ -29,9 +29,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#794](https://github.com/Yummypets/YPImagePicker/pull/794) in [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker)
-2. ❗ Opened issue [#793](https://github.com/Yummypets/YPImagePicker/issues/793) in [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker)
-3. 🎉 Merged PR [#2](https://github.com/techinpark/lottery-bot/pull/2) in [techinpark/lottery-bot](https://github.com/techinpark/lottery-bot)
-4. 🎉 Merged PR [#18](https://github.com/techinpark/appstore-status-bot/pull/18) in [techinpark/appstore-status-bot](https://github.com/techinpark/appstore-status-bot)
-5. ❗ Opened issue [#5849](https://github.com/zwave-js/node-zwave-js/issues/5849) in [zwave-js/node-zwave-js](https://github.com/zwave-js/node-zwave-js)
+1. 🗣 Commented on [#30](https://github.com/techinpark/Jandi/issues/30#issuecomment-1636807280) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+2. 🔒 Closed issue [#30](https://github.com/techinpark/Jandi/issues/30) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+3. 🚀 Published release [v.1.13](https://github.com/techinpark/Jandi/releases/tag/v.1.13) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+4. 💪 Opened PR [#794](https://github.com/Yummypets/YPImagePicker/pull/794) in [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker)
+5. ❗ Opened issue [#793](https://github.com/Yummypets/YPImagePicker/issues/793) in [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker)
 <!--END_SECTION:activity-->
