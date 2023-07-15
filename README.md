@@ -29,9 +29,9 @@
 
 ## 🚀  Recent github Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/techinpark/Jandi/issues/30#issuecomment-1636807280) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-2. 🔒 Closed issue [#30](https://github.com/techinpark/Jandi/issues/30) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-3. 🚀 Published release [v.1.13](https://github.com/techinpark/Jandi/releases/tag/v.1.13) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
-4. 💪 Opened PR [#794](https://github.com/Yummypets/YPImagePicker/pull/794) in [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker)
-5. ❗ Opened issue [#793](https://github.com/Yummypets/YPImagePicker/issues/793) in [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker)
+1. 💪 Opened PR [#151124](https://github.com/Homebrew/homebrew-cask/pull/151124) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+2. 🚀 Published release [📦 Version 1.13](https://github.com/techinpark/Jandi/releases/tag/v1.13) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+3. 🗣 Commented on [#30](https://github.com/techinpark/Jandi/issues/30#issuecomment-1636807280) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+4. 🔒 Closed issue [#30](https://github.com/techinpark/Jandi/issues/30) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
+5. 🚀 Published release [v.1.13](https://github.com/techinpark/Jandi/releases/tag/v.1.13) in [techinpark/Jandi](https://github.com/techinpark/Jandi)
 <!--END_SECTION:activity-->
